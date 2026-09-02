@@ -38,3 +38,10 @@ CLAUDE.md
 \.cache
 
 docs/
+
+outputs/
+*.jsonl.gz
+
+src/
+scripts/
+requirements.txt
